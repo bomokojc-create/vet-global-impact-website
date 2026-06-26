@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://vetglobalimpact.com/sitemap.xml
+
+# Block crawlers from API routes
+User-agent: *
+Disallow: /api/
